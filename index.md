@@ -11,3 +11,6 @@ Initialised empty Git repository in /Users/Skills/Projects/recipe-repository/.gi
 ~~~ javascript
 var myVar = "Hello, world!";
 ~~~
+~~~
+$ git status
+~~~
