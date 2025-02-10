@@ -8,7 +8,6 @@
 $ git init
 Initialised empty Git repository in /Users/Skills/Projects/recipe-repository/.git/
 ~~~
-
 ~~~ javascript
 var myVar = "Hello, world!";
 ~~~
